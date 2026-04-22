@@ -33,13 +33,15 @@ The main objective of this project is to:
 
 ## 📂 Project Structure
 
+```
 upskillcampus/
 │
-├── SalesAnalysis_Sambhav.py # Main Dashboard Code
-├── sales.csv # Dataset
-├── dashboard.png # Dashboard Screenshot
-├── SalesAnalysis_Sambhav_USC_UCT.pdf # Project Report
+├── SalesAnalysis_Sambhav.py        # Main Dashboard Code
+├── sales.csv                      # Dataset
+├── dashboard.png                 # Dashboard Screenshot
+├── SalesAnalysis_Sambhav_USC_UCT.pdf  # Project Report
 └── README.md
+```
 
 
 ---
