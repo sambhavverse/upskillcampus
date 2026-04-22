@@ -67,7 +67,11 @@ streamlit run SalesAnalysis_Sambhav.py
 ---
 
 ## 📸 Output Screenshot
-(Add your dashboard screenshot here)
+
+![Sales Dashboard](dashboard1.png)
+![Sales Dashboard](dashboard2.png)
+
+*Interactive Sales Dashboard built using Streamlit with real-time filtering and visualizations.*
 
 ---
 
