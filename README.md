@@ -48,7 +48,7 @@ upskillcampus/
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/upskillcampus
+git clone https://github.com/sambhavverse/upskillcampus
 
 
 2. Navigate to the folder:
